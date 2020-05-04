@@ -1,0 +1,156 @@
+
+body{
+margin: 0;
+text-align: center;
+background-color:#e4f9f5 ;
+font-family: 'Kreon', serif;
+color: #40514e;
+
+
+}
+.top_paragraph{
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h1{
+  font-size: 5.625rem;
+  position: relative;
+  font-family: 'Dancing Script', cursive;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+
+
+}
+h2{
+  font-family: 'Playfair Display', serif;
+    color: #66bfbf;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+h3{
+  font-family: 'Playfair Display', serif;
+  color: #11999e;
+  text-align: left;
+
+}
+.top_container{
+  position: relative;
+  background-color: #e4f9f5;
+  padding-top: 100px;
+}
+.middle_container{
+  margin: 100px 0;
+
+
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px 0;
+
+}
+
+
+.web{
+  text-decoration: underline;
+}
+.top_cloud{
+  position:absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom_cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.webdev{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.english{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+
+}
+.eng-skill{
+  text-align: left;
+  margin-top: 10;
+}
+.btn{
+  color: #11999e;
+}
+.footer-link{
+  color: #11999e;
+
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2;
+}
+.skill-web{
+  text-align: left;
+}
+.myself{
+  margin: 100px 0 0 0;
+}
+hr{
+  border:dotted #222831 6px;
+  border-bottom: none;
+  margin: 100px auto 100px auto;
+
+  width: 5%;
+}
+
+.btn {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #34edd4 5%, #019ad2 100%);
+	background-color:#66bfbf;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:aerial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 17px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+  margin-bottom: 10px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #34edd4 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.end-talk{
+text-align: center;
+}
+a{
+  color: #11999e;
+  margin: 10px 20px;
+  text-decoration: none;
+
+
+
+}
+a:hover{
+  color: #eaf6f6
+}
+.copyright{
+  color: #eaf6f6;
+  font: 0.75rem;
+  margin-bottom: 10px;
+}
